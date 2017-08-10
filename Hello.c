@@ -4,7 +4,7 @@ void main()
 int n=0;
 while(n<5)
 {
-cout<<"Hello World\n";
+cout<<"Hello\n";
 n++;
 }
 }
