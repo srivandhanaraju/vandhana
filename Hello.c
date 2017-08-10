@@ -1,10 +1,10 @@
-#include<iostream.h>
+#include<stdio.h>
 void main()
 {
 int n=0;
 while(n<5)
 {
-cout<<"Hello\n";
+printf("Hello\n");
 n++;
 }
 }
